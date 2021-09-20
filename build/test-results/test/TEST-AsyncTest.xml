@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AsyncTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-20T18:38:02" hostname="DESKTOP-STG01S0" time="1.083">
+  <properties/>
+  <testcase name="testAwaitAll" classname="AsyncTest" time="1.083"/>
+  <system-out><![CDATA[total 33
+time 1033
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
